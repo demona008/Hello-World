@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

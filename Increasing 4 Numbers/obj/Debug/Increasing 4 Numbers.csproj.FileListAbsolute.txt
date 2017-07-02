@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.pdb

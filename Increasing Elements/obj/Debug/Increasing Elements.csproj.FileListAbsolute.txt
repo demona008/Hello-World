@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing Elements\bin\Debug\Increasing Elements.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing Elements\bin\Debug\Increasing Elements.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing Elements\bin\Debug\Increasing Elements.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing Elements\obj\Debug\Increasing Elements.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing Elements\obj\Debug\Increasing Elements.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Increasing Elements\obj\Debug\Increasing Elements.pdb
