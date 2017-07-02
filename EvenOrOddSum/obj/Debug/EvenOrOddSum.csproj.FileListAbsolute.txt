@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\EvenOrOddSum\bin\Debug\EvenOrOddSum.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\EvenOrOddSum\bin\Debug\EvenOrOddSum.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\EvenOrOddSum\bin\Debug\EvenOrOddSum.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\EvenOrOddSum\obj\Debug\EvenOrOddSum.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\EvenOrOddSum\obj\Debug\EvenOrOddSum.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\EvenOrOddSum\obj\Debug\EvenOrOddSum.pdb

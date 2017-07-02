@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Enter Even Number\bin\Debug\Enter Even Number.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Enter Even Number\bin\Debug\Enter Even Number.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Enter Even Number\obj\Debug\Enter Even Number.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\Enter Even Number\obj\Debug\Enter Even Number.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Enter Even Number\obj\Debug\Enter Even Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Factorial\bin\Debug\Factorial.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Factorial\bin\Debug\Factorial.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\Factorial\obj\Debug\Factorial.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Factorial\obj\Debug\Factorial.pdb
