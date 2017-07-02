@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\RemontPlochki\obj\Debug\RemontPlochki.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\RemontPlochki\bin\Debug\RemontPlochki.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\RemontPlochki\bin\Debug\RemontPlochki.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\RemontPlochki\bin\Debug\RemontPlochki.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\RemontPlochki\obj\Debug\RemontPlochki.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\RemontPlochki\obj\Debug\RemontPlochki.pdb

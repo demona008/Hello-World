@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\RadiansToGradusiC\bin\Debug\RadiansToGradusiC.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\RadiansToGradusiC\bin\Debug\RadiansToGradusiC.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\RadiansToGradusiC\bin\Debug\RadiansToGradusiC.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\RadiansToGradusiC\obj\Debug\RadiansToGradusiC.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\RadiansToGradusiC\obj\Debug\RadiansToGradusiC.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\ProspectInHostitality\bin\Debug\ProspectInHostitality.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\ProspectInHostitality\bin\Debug\ProspectInHostitality.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ProspectInHostitality\bin\Debug\ProspectInHostitality.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\ProspectInHostitality\obj\Debug\ProspectInHostitality.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\ProspectInHostitality\obj\Debug\ProspectInHostitality.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ProspectInHostitality\obj\Debug\ProspectInHostitality.pdb

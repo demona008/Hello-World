@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\ProstiCislaMejduNiM\bin\Debug\ProstiCislaMejduNiM.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\ProstiCislaMejduNiM\bin\Debug\ProstiCislaMejduNiM.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ProstiCislaMejduNiM\bin\Debug\ProstiCislaMejduNiM.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\ProstiCislaMejduNiM\obj\Debug\ProstiCislaMejduNiM.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\ProstiCislaMejduNiM\obj\Debug\ProstiCislaMejduNiM.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ProstiCislaMejduNiM\obj\Debug\ProstiCislaMejduNiM.pdb
