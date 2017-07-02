@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\SumsStep3\bin\Debug\SumsStep3.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\SumsStep3\bin\Debug\SumsStep3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\SumsStep3\bin\Debug\SumsStep3.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\SumsStep3\obj\Debug\SumsStep3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\SumsStep3\obj\Debug\SumsStep3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\SumsStep3\obj\Debug\SumsStep3.pdb

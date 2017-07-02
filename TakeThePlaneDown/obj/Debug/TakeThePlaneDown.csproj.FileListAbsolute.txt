@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.pdb
