@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\DelenieBezOstatak\bin\Debug\DelenieBezOstatak.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\DelenieBezOstatak\bin\Debug\DelenieBezOstatak.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\DelenieBezOstatak\bin\Debug\DelenieBezOstatak.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\DelenieBezOstatak\obj\Debug\DelenieBezOstatak.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\DelenieBezOstatak\obj\Debug\DelenieBezOstatak.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\DelenieBezOstatak\obj\Debug\DelenieBezOstatak.pdb

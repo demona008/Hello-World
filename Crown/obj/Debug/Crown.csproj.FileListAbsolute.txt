@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Crown\bin\Debug\Crown.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Crown\bin\Debug\Crown.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Crown\bin\Debug\Crown.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Crown\obj\Debug\Crown.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\Crown\obj\Debug\Crown.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Crown\obj\Debug\Crown.pdb

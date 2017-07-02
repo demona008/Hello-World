@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\ChristmasHat\bin\Debug\ChristmasHat.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ChristmasHat\bin\Debug\ChristmasHat.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\ChristmasHat\obj\Debug\ChristmasHat.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ChristmasHat\obj\Debug\ChristmasHat.pdb
