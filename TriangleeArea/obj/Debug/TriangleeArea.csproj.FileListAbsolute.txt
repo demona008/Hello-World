@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\TriangleeArea\bin\Debug\TriangleeArea.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\TriangleeArea\bin\Debug\TriangleeArea.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\TriangleeArea\bin\Debug\TriangleeArea.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\TriangleeArea\obj\Debug\TriangleeArea.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\TriangleeArea\obj\Debug\TriangleeArea.pdb
