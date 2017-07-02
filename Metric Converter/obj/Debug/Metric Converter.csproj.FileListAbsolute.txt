@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Metric Converter\bin\Debug\Metric Converter.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Metric Converter\bin\Debug\Metric Converter.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Metric Converter\bin\Debug\Metric Converter.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Metric Converter\obj\Debug\Metric Converter.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Metric Converter\obj\Debug\Metric Converter.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Metric Converter\obj\Debug\Metric Converter.pdb

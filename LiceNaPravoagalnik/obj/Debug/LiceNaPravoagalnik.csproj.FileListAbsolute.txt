@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\LiceNaPravoagalnik\bin\Debug\LiceNaPravoagalnik.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\LiceNaPravoagalnik\bin\Debug\LiceNaPravoagalnik.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\LiceNaPravoagalnik\bin\Debug\LiceNaPravoagalnik.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\LiceNaPravoagalnik\obj\Debug\LiceNaPravoagalnik.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\LiceNaPravoagalnik\obj\Debug\LiceNaPravoagalnik.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\LiceNaPravoagalnik\obj\Debug\LiceNaPravoagalnik.pdb
