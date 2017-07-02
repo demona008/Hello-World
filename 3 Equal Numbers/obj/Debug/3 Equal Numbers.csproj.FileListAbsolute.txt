@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\3 Equal Numbers\bin\Debug\3 Equal Numbers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\3 Equal Numbers\obj\Debug\3 Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\3 Equal Numbers\obj\Debug\3 Equal Numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\3 Equal Numbers\obj\Debug\3 Equal Numbers.pdb
