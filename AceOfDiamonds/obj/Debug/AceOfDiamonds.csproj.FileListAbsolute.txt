@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb
