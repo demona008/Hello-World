@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\SumPrez3Numbers\bin\Debug\SumPrez3Numbers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\SumPrez3Numbers\bin\Debug\SumPrez3Numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SumPrez3Numbers\bin\Debug\SumPrez3Numbers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\SumPrez3Numbers\obj\Debug\SumPrez3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\SumPrez3Numbers\obj\Debug\SumPrez3Numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SumPrez3Numbers\obj\Debug\SumPrez3Numbers.pdb

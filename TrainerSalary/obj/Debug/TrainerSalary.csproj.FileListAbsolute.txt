@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\TrainerSalary\bin\Debug\TrainerSalary.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\TrainerSalary\bin\Debug\TrainerSalary.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\TrainerSalary\bin\Debug\TrainerSalary.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\TrainerSalary\obj\Debug\TrainerSalary.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\TrainerSalary\obj\Debug\TrainerSalary.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\TrainerSalary\obj\Debug\TrainerSalary.pdb
