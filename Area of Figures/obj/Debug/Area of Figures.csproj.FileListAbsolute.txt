@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Area of Figures\bin\Debug\Area of Figures.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Area of Figures\bin\Debug\Area of Figures.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Area of Figures\bin\Debug\Area of Figures.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Area of Figures\obj\Debug\Area of Figures.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Area of Figures\obj\Debug\Area of Figures.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Area of Figures\obj\Debug\Area of Figures.pdb
