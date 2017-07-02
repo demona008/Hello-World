@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\GradusConverterCToF\bin\Debug\GradusConverterCToF.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\GradusConverterCToF\bin\Debug\GradusConverterCToF.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\GradusConverterCToF\bin\Debug\GradusConverterCToF.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\GradusConverterCToF\obj\Debug\GradusConverterCToF.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\GradusConverterCToF\obj\Debug\GradusConverterCToF.pdb

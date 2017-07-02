@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit Shop\bin\Debug\Fruit Shop.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit Shop\bin\Debug\Fruit Shop.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit Shop\obj\Debug\Fruit Shop.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit Shop\obj\Debug\Fruit Shop.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Fruit Shop\obj\Debug\Fruit Shop.pdb
