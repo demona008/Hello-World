@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneN^N\bin\Debug\4ertaneN^N.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneN^N\bin\Debug\4ertaneN^N.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneN^N\bin\Debug\4ertaneN^N.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneN^N\obj\Debug\4ertaneN^N.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneN^N\obj\Debug\4ertaneN^N.pdb

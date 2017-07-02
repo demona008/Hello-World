@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneHouse\bin\Debug\4ertaneHouse.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneHouse\bin\Debug\4ertaneHouse.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneHouse\bin\Debug\4ertaneHouse.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneHouse\obj\Debug\4ertaneHouse.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneHouse\obj\Debug\4ertaneHouse.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneHouse\obj\Debug\4ertaneHouse.pdb

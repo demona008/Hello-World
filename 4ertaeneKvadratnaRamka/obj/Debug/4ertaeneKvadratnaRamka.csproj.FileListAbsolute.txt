@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaeneKvadratnaRamka\bin\Debug\4ertaeneKvadratnaRamka.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaeneKvadratnaRamka\bin\Debug\4ertaeneKvadratnaRamka.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaeneKvadratnaRamka\bin\Debug\4ertaeneKvadratnaRamka.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaeneKvadratnaRamka\obj\Debug\4ertaeneKvadratnaRamka.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaeneKvadratnaRamka\obj\Debug\4ertaeneKvadratnaRamka.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaeneKvadratnaRamka\obj\Debug\4ertaeneKvadratnaRamka.pdb

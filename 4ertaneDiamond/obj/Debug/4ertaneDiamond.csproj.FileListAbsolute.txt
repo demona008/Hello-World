@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneDiamond\bin\Debug\4ertaneDiamond.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneDiamond\bin\Debug\4ertaneDiamond.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneDiamond\bin\Debug\4ertaneDiamond.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneDiamond\obj\Debug\4ertaneDiamond.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneDiamond\obj\Debug\4ertaneDiamond.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\4ertaneDiamond\obj\Debug\4ertaneDiamond.csprojResolveAssemblyReference.cache
