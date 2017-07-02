@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\PozdravPoIme\bin\Debug\PozdravPoIme.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\PozdravPoIme\bin\Debug\PozdravPoIme.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\PozdravPoIme\bin\Debug\PozdravPoIme.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\PozdravPoIme\obj\Debug\PozdravPoIme.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\PozdravPoIme\obj\Debug\PozdravPoIme.pdb

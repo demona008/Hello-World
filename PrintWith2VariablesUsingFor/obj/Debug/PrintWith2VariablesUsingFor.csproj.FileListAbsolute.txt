@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\PrintWith2VariablesUsingFor\bin\Debug\PrintWith2VariablesUsingFor.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\PrintWith2VariablesUsingFor\bin\Debug\PrintWith2VariablesUsingFor.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\PrintWith2VariablesUsingFor\bin\Debug\PrintWith2VariablesUsingFor.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\PrintWith2VariablesUsingFor\obj\Debug\PrintWith2VariablesUsingFor.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\PrintWith2VariablesUsingFor\obj\Debug\PrintWith2VariablesUsingFor.pdb
