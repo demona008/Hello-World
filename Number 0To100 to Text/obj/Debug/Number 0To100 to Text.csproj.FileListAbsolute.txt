@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Number 0To100 to Text\bin\Debug\Number 0To100 to Text.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Number 0To100 to Text\bin\Debug\Number 0To100 to Text.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Number 0To100 to Text\bin\Debug\Number 0To100 to Text.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Number 0To100 to Text\obj\Debug\Number 0To100 to Text.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Number 0To100 to Text\obj\Debug\Number 0To100 to Text.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Number 0To100 to Text\obj\Debug\Number 0To100 to Text.csprojResolveAssemblyReference.cache

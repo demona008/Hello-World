@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\NUmberINWord\bin\Debug\NUmberINWord.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\NUmberINWord\bin\Debug\NUmberINWord.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\NUmberINWord\bin\Debug\NUmberINWord.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\NUmberINWord\obj\Debug\NUmberINWord.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\NUmberINWord\obj\Debug\NUmberINWord.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\NUmberINWord\obj\Debug\NUmberINWord.pdb
