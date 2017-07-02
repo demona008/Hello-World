@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\ZelenchukovaBorsa\bin\Debug\ZelenchukovaBorsa.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\ZelenchukovaBorsa\bin\Debug\ZelenchukovaBorsa.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ZelenchukovaBorsa\bin\Debug\ZelenchukovaBorsa.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\ZelenchukovaBorsa\obj\Debug\ZelenchukovaBorsa.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\ZelenchukovaBorsa\obj\Debug\ZelenchukovaBorsa.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ZelenchukovaBorsa\obj\Debug\ZelenchukovaBorsa.pdb

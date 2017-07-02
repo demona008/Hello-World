@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\ДневнаПечалба\bin\Debug\ДневнаПечалба.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\ДневнаПечалба\bin\Debug\ДневнаПечалба.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ДневнаПечалба\bin\Debug\ДневнаПечалба.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\ДневнаПечалба\obj\Debug\ДневнаПечалба.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ДневнаПечалба\obj\Debug\ДневнаПечалба.pdb

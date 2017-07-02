@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\WorkHours\bin\Debug\WorkHours.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\WorkHours\bin\Debug\WorkHours.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\WorkHours\obj\Debug\WorkHours.pdb
