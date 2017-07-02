@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

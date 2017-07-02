@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\CenaApartament\bin\Debug\CenaApartament.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\CenaApartament\bin\Debug\CenaApartament.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\CenaApartament\bin\Debug\CenaApartament.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\CenaApartament\obj\Debug\CenaApartament.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\CenaApartament\obj\Debug\CenaApartament.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\CenaApartament\obj\Debug\CenaApartament.csprojResolveAssemblyReference.cache
