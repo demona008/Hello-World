@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Toto6Ot49\bin\Debug\Toto6Ot49.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Toto6Ot49\bin\Debug\Toto6Ot49.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Toto6Ot49\bin\Debug\Toto6Ot49.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Toto6Ot49\obj\Debug\Toto6Ot49.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Toto6Ot49\obj\Debug\Toto6Ot49.pdb

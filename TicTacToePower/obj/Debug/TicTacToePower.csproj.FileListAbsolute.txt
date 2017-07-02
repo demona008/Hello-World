@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\TicTacToePower\bin\Debug\TicTacToePower.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\TicTacToePower\bin\Debug\TicTacToePower.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TicTacToePower\bin\Debug\TicTacToePower.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\TicTacToePower\obj\Debug\TicTacToePower.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\TicTacToePower\obj\Debug\TicTacToePower.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TicTacToePower\obj\Debug\TicTacToePower.pdb

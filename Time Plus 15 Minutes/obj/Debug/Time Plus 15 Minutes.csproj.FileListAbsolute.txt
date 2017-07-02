@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Time Plus 15 Minutes\bin\Debug\Time Plus 15 Minutes.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Time Plus 15 Minutes\bin\Debug\Time Plus 15 Minutes.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Time Plus 15 Minutes\bin\Debug\Time Plus 15 Minutes.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Time Plus 15 Minutes\obj\Debug\Time Plus 15 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Time Plus 15 Minutes\obj\Debug\Time Plus 15 Minutes.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Time Plus 15 Minutes\obj\Debug\Time Plus 15 Minutes.pdb
