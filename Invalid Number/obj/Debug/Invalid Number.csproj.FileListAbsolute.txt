@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Invalid Number\bin\Debug\Invalid Number.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Invalid Number\bin\Debug\Invalid Number.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Invalid Number\bin\Debug\Invalid Number.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Invalid Number\obj\Debug\Invalid Number.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Invalid Number\obj\Debug\Invalid Number.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Invalid Number\obj\Debug\Invalid Number.pdb

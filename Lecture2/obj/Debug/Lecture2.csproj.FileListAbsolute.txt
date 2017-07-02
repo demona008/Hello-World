@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Lecture2\bin\Debug\Lecture2.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Lecture2\bin\Debug\Lecture2.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Lecture2\bin\Debug\Lecture2.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Lecture2\obj\Debug\Lecture2.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Lecture2\obj\Debug\Lecture2.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Lecture2\obj\Debug\Lecture2.pdb

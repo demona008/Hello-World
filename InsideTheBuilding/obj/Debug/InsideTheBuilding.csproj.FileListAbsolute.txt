@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

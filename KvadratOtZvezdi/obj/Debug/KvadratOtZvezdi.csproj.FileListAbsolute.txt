@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\KvadratOtZvezdi\bin\Debug\KvadratOtZvezdi.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\KvadratOtZvezdi\bin\Debug\KvadratOtZvezdi.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\KvadratOtZvezdi\bin\Debug\KvadratOtZvezdi.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\KvadratOtZvezdi\obj\Debug\KvadratOtZvezdi.csprojResolveAssemblyReference.cache
