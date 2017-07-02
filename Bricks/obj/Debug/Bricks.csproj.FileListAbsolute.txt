@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\Bricks\bin\Debug\Bricks.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\Bricks\bin\Debug\Bricks.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\Bricks\bin\Debug\Bricks.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\Bricks\obj\Debug\Bricks.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1\Bricks\obj\Debug\Bricks.pdb

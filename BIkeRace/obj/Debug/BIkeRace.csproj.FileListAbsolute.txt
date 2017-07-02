@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\BIkeRace\bin\Debug\BIkeRace.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\BIkeRace\bin\Debug\BIkeRace.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\BIkeRace\bin\Debug\BIkeRace.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\BIkeRace\obj\Debug\BIkeRace.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\BIkeRace\obj\Debug\BIkeRace.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\BIkeRace\obj\Debug\BIkeRace.pdb
