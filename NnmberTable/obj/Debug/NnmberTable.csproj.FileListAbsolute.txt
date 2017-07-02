@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\NnmberTable\bin\Debug\NnmberTable.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\NnmberTable\bin\Debug\NnmberTable.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\NnmberTable\bin\Debug\NnmberTable.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\NnmberTable\obj\Debug\NnmberTable.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\NnmberTable\obj\Debug\NnmberTable.pdb

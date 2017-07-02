@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\LocalElections\bin\Debug\LocalElections.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\LocalElections\bin\Debug\LocalElections.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\LocalElections\bin\Debug\LocalElections.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\LocalElections\obj\Debug\LocalElections.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\LocalElections\obj\Debug\LocalElections.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\LocalElections\obj\Debug\LocalElections.pdb
