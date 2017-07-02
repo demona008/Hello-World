@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\SamePairs\obj\Debug\SamePairs.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\SamePairs\bin\Debug\SamePairs.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\SamePairs\bin\Debug\SamePairs.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SamePairs\bin\Debug\SamePairs.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\SamePairs\obj\Debug\SamePairs.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SamePairs\obj\Debug\SamePairs.pdb

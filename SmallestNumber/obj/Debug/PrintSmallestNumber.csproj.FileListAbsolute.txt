@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\SmallestNumber\bin\Debug\SmallestNumber.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\SmallestNumber\bin\Debug\SmallestNumber.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SmallestNumber\bin\Debug\SmallestNumber.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\SmallestNumber\obj\Debug\PrintSmallestNumber.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\SmallestNumber\obj\Debug\SmallestNumber.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SmallestNumber\obj\Debug\SmallestNumber.pdb

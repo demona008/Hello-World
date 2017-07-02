@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Rocket\bin\Debug\Rocket.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Rocket\bin\Debug\Rocket.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Rocket\bin\Debug\Rocket.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Rocket\obj\Debug\Rocket.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Rocket\obj\Debug\Rocket.pdb

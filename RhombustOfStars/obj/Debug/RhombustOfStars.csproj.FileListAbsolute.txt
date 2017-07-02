@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\RhombustOfStars\bin\Debug\RhombustOfStars.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\RhombustOfStars\bin\Debug\RhombustOfStars.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\RhombustOfStars\bin\Debug\RhombustOfStars.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\RhombustOfStars\obj\Debug\RhombustOfStars.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\RhombustOfStars\obj\Debug\RhombustOfStars.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\RhombustOfStars\obj\Debug\RhombustOfStars.csprojResolveAssemblyReference.cache
