@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\МагазинЗаЦветя\bin\Debug\МагазинЗаЦветя.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\МагазинЗаЦветя\bin\Debug\МагазинЗаЦветя.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\МагазинЗаЦветя\bin\Debug\МагазинЗаЦветя.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\МагазинЗаЦветя\obj\Debug\МагазинЗаЦветя.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\МагазинЗаЦветя\obj\Debug\МагазинЗаЦветя.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\МагазинЗаЦветя\obj\Debug\МагазинЗаЦветя.pdb

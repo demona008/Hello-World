@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Операции между числа\bin\Debug\Операции между числа.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Операции между числа\bin\Debug\Операции между числа.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Операции между числа\bin\Debug\Операции между числа.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Операции между числа\obj\Debug\Операции между числа.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Операции между числа\obj\Debug\Операции между числа.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Операции между числа\obj\Debug\Операции между числа.pdb

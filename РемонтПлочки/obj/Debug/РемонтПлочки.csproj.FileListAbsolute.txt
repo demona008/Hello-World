@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\РемонтПлочки\bin\Debug\РемонтПлочки.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\РемонтПлочки\bin\Debug\РемонтПлочки.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\РемонтПлочки\bin\Debug\РемонтПлочки.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\РемонтПлочки\obj\Debug\РемонтПлочки.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\РемонтПлочки\obj\Debug\РемонтПлочки.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Парички\bin\Debug\Парички.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Парички\bin\Debug\Парички.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Парички\bin\Debug\Парички.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Парички\obj\Debug\Парички.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Парички\obj\Debug\Парички.pdb
