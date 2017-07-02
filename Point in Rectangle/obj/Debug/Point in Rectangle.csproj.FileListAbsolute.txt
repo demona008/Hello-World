@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Point in Rectangle\obj\Debug\Point in Rectangle.pdb
