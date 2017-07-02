@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\1000 Days After Birth\bin\Debug\1000 Days After Birth.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\1000 Days After Birth\obj\Debug\1000 Days After Birth.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\1000 Days After Birth\obj\Debug\1000 Days After Birth.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\1000 Days After Birth\obj\Debug\1000 Days After Birth.pdb
