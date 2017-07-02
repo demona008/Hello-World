@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\FaktorielN\bin\Debug\FaktorielN.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\FaktorielN\bin\Debug\FaktorielN.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\FaktorielN\bin\Debug\FaktorielN.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\FaktorielN\obj\Debug\FaktorielN.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\FaktorielN\obj\Debug\FaktorielN.pdb

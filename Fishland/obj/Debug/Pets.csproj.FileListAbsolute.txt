@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Fishland\bin\Debug\Fishland.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Fishland\bin\Debug\Fishland.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Fishland\bin\Debug\Fishland.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Fishland\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Fishland\obj\Debug\Fishland.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Fishland\obj\Debug\Fishland.pdb

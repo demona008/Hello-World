@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Flowers\bin\Debug\Flowers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Flowers\bin\Debug\Flowers.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Flowers\bin\Debug\Flowers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Flowers\obj\Debug\Flowers.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Flowers\obj\Debug\Flowers.pdb

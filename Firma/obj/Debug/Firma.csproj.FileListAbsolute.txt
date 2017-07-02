@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Firma\bin\Debug\Firma.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Firma\bin\Debug\Firma.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Firma\bin\Debug\Firma.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Firma\obj\Debug\Firma.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Firma\obj\Debug\Firma.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Firma\obj\Debug\Firma.pdb
