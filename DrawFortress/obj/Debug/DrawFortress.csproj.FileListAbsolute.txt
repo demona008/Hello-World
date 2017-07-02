@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\DrawFortress\bin\Debug\DrawFortress.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\DrawFortress\bin\Debug\DrawFortress.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\DrawFortress\bin\Debug\DrawFortress.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\DrawFortress\obj\Debug\DrawFortress.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\DrawFortress\obj\Debug\DrawFortress.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\DrawFortress\obj\Debug\DrawFortress.pdb

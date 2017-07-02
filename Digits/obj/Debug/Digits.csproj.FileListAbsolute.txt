@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Digits\bin\Debug\Digits.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Digits\bin\Debug\Digits.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Digits\bin\Debug\Digits.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Digits\obj\Debug\Digits.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Digits\obj\Debug\Digits.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\ElementRavenNaSumOtOstanalite2\bin\Debug\ElementRavenNaSumOtOstanalite2.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\ElementRavenNaSumOtOstanalite2\bin\Debug\ElementRavenNaSumOtOstanalite2.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ElementRavenNaSumOtOstanalite2\bin\Debug\ElementRavenNaSumOtOstanalite2.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\ElementRavenNaSumOtOstanalite2\obj\Debug\ElementRavenNaSumOtOstanalite2.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ElementRavenNaSumOtOstanalite2\obj\Debug\ElementRavenNaSumOtOstanalite2.pdb

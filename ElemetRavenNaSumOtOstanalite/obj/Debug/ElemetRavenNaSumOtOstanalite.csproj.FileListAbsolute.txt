@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\ElemetRavenNaSumOtOstanalite\bin\Debug\ElemetRavenNaSumOtOstanalite.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\ElemetRavenNaSumOtOstanalite\bin\Debug\ElemetRavenNaSumOtOstanalite.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ElemetRavenNaSumOtOstanalite\bin\Debug\ElemetRavenNaSumOtOstanalite.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\ElemetRavenNaSumOtOstanalite\obj\Debug\ElemetRavenNaSumOtOstanalite.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\ElemetRavenNaSumOtOstanalite\obj\Debug\ElemetRavenNaSumOtOstanalite.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ElemetRavenNaSumOtOstanalite\obj\Debug\ElemetRavenNaSumOtOstanalite.pdb
