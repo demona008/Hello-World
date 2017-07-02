@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Trip\bin\Debug\Trip.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Trip\bin\Debug\Trip.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Trip\bin\Debug\Trip.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Trip\obj\Debug\Trip.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Trip\obj\Debug\Trip.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Trip\obj\Debug\Trip.pdb

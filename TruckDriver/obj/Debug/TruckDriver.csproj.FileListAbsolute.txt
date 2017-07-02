@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\TruckDriver\bin\Debug\TruckDriver.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\TruckDriver\bin\Debug\TruckDriver.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TruckDriver\bin\Debug\TruckDriver.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\TruckDriver\obj\Debug\TruckDriver.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\TruckDriver\obj\Debug\TruckDriver.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TruckDriver\obj\Debug\TruckDriver.pdb

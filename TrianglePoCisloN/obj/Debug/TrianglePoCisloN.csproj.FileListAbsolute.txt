@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\TrianglePoCisloN\bin\Debug\TrianglePoCisloN.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\TrianglePoCisloN\bin\Debug\TrianglePoCisloN.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TrianglePoCisloN\bin\Debug\TrianglePoCisloN.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\TrianglePoCisloN\obj\Debug\TrianglePoCisloN.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\TrianglePoCisloN\obj\Debug\TrianglePoCisloN.pdb
