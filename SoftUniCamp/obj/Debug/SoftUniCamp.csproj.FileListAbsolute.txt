@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\SoftUniCamp\bin\Debug\SoftUniCamp.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\SoftUniCamp\bin\Debug\SoftUniCamp.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SoftUniCamp\bin\Debug\SoftUniCamp.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\SoftUniCamp\obj\Debug\SoftUniCamp.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\SoftUniCamp\obj\Debug\SoftUniCamp.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SoftUniCamp\obj\Debug\SoftUniCamp.pdb
