@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\SumGlasniBukvi\bin\Debug\SumGlasniBukvi.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\SumGlasniBukvi\bin\Debug\SumGlasniBukvi.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SumGlasniBukvi\bin\Debug\SumGlasniBukvi.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\SumGlasniBukvi\obj\Debug\SumGlasniBukvi.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\SumGlasniBukvi\obj\Debug\SumGlasniBukvi.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\SumGlasniBukvi\obj\Debug\SumGlasniBukvi.pdb
