@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\2DAreaRectangle\bin\Debug\2DAreaRectangle.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\2DAreaRectangle\bin\Debug\2DAreaRectangle.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\2DAreaRectangle\bin\Debug\2DAreaRectangle.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\2DAreaRectangle\obj\Debug\2DAreaRectangle.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\2DAreaRectangle\obj\Debug\2DAreaRectangle.pdb
