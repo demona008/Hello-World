@@ -1,3 +1,1 @@
-# Hello-World
-Firs repo ever
-Test
+C# zada4i
