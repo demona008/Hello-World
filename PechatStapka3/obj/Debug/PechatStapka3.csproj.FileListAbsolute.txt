@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\PechatStapka3\bin\Debug\PechatStapka3.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\PechatStapka3\bin\Debug\PechatStapka3.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\PechatStapka3\bin\Debug\PechatStapka3.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\PechatStapka3\obj\Debug\PechatStapka3.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\PechatStapka3\obj\Debug\PechatStapka3.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\PechatStapka3\obj\Debug\PechatStapka3.pdb
