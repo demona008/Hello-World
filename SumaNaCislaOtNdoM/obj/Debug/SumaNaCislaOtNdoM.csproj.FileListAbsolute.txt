@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\SumaNaCislaOtNdoM\bin\Debug\SumaNaCislaOtNdoM.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\SumaNaCislaOtNdoM\bin\Debug\SumaNaCislaOtNdoM.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\SumaNaCislaOtNdoM\bin\Debug\SumaNaCislaOtNdoM.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\SumaNaCislaOtNdoM\obj\Debug\SumaNaCislaOtNdoM.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\SumaNaCislaOtNdoM\obj\Debug\SumaNaCislaOtNdoM.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\SumaNaCislaOtNdoM\obj\Debug\SumaNaCislaOtNdoM.pdb

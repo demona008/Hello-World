@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\StoinostNna StepenM(n^m)\bin\Debug\StoinostNna StepenM(n^m).exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\StoinostNna StepenM(n^m)\bin\Debug\StoinostNna StepenM(n^m).exe
+C:\Users\User\documents\visual studio 2017\Projects\1\StoinostNna StepenM(n^m)\bin\Debug\StoinostNna StepenM(n^m).pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\StoinostNna StepenM(n^m)\obj\Debug\StoinostNna StepenM(n^m).exe
+C:\Users\User\documents\visual studio 2017\Projects\1\StoinostNna StepenM(n^m)\obj\Debug\StoinostNna StepenM(n^m).pdb
