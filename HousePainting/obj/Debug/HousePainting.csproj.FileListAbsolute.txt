@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\HousePainting\bin\Debug\HousePainting.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\HousePainting\bin\Debug\HousePainting.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\HousePainting\bin\Debug\HousePainting.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\HousePainting\obj\Debug\HousePainting.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\HousePainting\obj\Debug\HousePainting.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\HousePainting\obj\Debug\HousePainting.pdb

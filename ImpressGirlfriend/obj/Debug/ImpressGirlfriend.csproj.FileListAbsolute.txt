@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\ImpressGirlfriend\bin\Debug\ImpressGirlfriend.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\ImpressGirlfriend\bin\Debug\ImpressGirlfriend.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ImpressGirlfriend\bin\Debug\ImpressGirlfriend.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\ImpressGirlfriend\obj\Debug\ImpressGirlfriend.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\ImpressGirlfriend\obj\Debug\ImpressGirlfriend.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\ImpressGirlfriend\obj\Debug\ImpressGirlfriend.pdb
