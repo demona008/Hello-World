@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\Excellent Result\bin\Debug\Excellent Result.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\Excellent Result\bin\Debug\Excellent Result.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Excellent Result\bin\Debug\Excellent Result.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\Excellent Result\obj\Debug\Excellent Result.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\Excellent Result\obj\Debug\Excellent Result.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\Excellent Result\obj\Debug\Excellent Result.pdb

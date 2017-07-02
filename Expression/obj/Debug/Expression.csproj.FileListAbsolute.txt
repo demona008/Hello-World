@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\1\Expression\bin\Debug\Expression.exe.config
+c:\users\user\documents\visual studio 2017\Projects\1\Expression\bin\Debug\Expression.exe
+c:\users\user\documents\visual studio 2017\Projects\1\Expression\bin\Debug\Expression.pdb
+c:\users\user\documents\visual studio 2017\Projects\1\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\1\Expression\obj\Debug\Expression.exe
+c:\users\user\documents\visual studio 2017\Projects\1\Expression\obj\Debug\Expression.pdb

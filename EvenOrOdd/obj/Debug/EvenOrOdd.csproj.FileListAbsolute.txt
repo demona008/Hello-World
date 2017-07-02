@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
