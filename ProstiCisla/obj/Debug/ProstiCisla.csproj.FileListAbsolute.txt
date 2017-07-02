@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\ProstiCisla\bin\Debug\ProstiCisla.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\ProstiCisla\bin\Debug\ProstiCisla.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ProstiCisla\bin\Debug\ProstiCisla.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\ProstiCisla\obj\Debug\ProstiCisla.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\ProstiCisla\obj\Debug\ProstiCisla.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\ProstiCisla\obj\Debug\ProstiCisla.pdb

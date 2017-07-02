@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\Rectangle with Stars\bin\Debug\Rectangle with Stars.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\Rectangle with Stars\bin\Debug\Rectangle with Stars.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Rectangle with Stars\bin\Debug\Rectangle with Stars.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Rectangle with Stars\obj\Debug\Rectangle with Stars.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\Rectangle with Stars\obj\Debug\Rectangle with Stars.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\Rectangle with Stars\obj\Debug\Rectangle with Stars.csprojResolveAssemblyReference.cache

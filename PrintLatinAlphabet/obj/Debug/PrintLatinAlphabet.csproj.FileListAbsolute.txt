@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintLatinAlphabet\bin\Debug\PrintLatinAlphabet.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintLatinAlphabet\bin\Debug\PrintLatinAlphabet.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintLatinAlphabet\bin\Debug\PrintLatinAlphabet.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintLatinAlphabet\obj\Debug\PrintLatinAlphabet.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintLatinAlphabet\obj\Debug\PrintLatinAlphabet.pdb

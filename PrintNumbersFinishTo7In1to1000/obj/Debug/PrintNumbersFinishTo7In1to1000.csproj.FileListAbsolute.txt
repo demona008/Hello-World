@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintNumbersFinishTo7In1to1000\bin\Debug\PrintNumbersFinishTo7In1to1000.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintNumbersFinishTo7In1to1000\bin\Debug\PrintNumbersFinishTo7In1to1000.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintNumbersFinishTo7In1to1000\bin\Debug\PrintNumbersFinishTo7In1to1000.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintNumbersFinishTo7In1to1000\obj\Debug\PrintNumbersFinishTo7In1to1000.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\2\PrintNumbersFinishTo7In1to1000\obj\Debug\PrintNumbersFinishTo7In1to1000.pdb
