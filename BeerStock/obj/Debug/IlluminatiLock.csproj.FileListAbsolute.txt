@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\BeerStock\bin\Debug\BeerStock.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\BeerStock\bin\Debug\BeerStock.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\BeerStock\bin\Debug\BeerStock.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\BeerStock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\BeerStock\obj\Debug\BeerStock.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\BeerStock\obj\Debug\BeerStock.pdb
