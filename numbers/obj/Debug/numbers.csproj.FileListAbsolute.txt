@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\numbers\bin\Debug\numbers.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\numbers\bin\Debug\numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\numbers\bin\Debug\numbers.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\numbers\obj\Debug\numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\2\numbers\obj\Debug\numbers.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\numbers\obj\Debug\numbers.pdb

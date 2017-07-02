@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmberPyramid\bin\Debug\NUmberPyramid.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmberPyramid\bin\Debug\NUmberPyramid.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmberPyramid\bin\Debug\NUmberPyramid.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmberPyramid\obj\Debug\NUmberPyramid.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmberPyramid\obj\Debug\NUmberPyramid.pdb

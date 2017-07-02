@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmbers2To2N\bin\Debug\NUmbers2To2N.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmbers2To2N\bin\Debug\NUmbers2To2N.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmbers2To2N\bin\Debug\NUmbers2To2N.pdb
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmbers2To2N\obj\Debug\NUmbers2To2N.exe
+C:\Users\User\documents\visual studio 2017\Projects\2\NUmbers2To2N\obj\Debug\NUmbers2To2N.pdb
