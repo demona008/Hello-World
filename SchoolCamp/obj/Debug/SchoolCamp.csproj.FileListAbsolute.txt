@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\SchoolCamp\bin\Debug\SchoolCamp.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\SchoolCamp\bin\Debug\SchoolCamp.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\SchoolCamp\bin\Debug\SchoolCamp.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\SchoolCamp\obj\Debug\SchoolCamp.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\SchoolCamp\obj\Debug\SchoolCamp.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\SchoolCamp\obj\Debug\SchoolCamp.pdb

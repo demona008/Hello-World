@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\RibnaBorsa\bin\Debug\RibnaBorsa.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\RibnaBorsa\bin\Debug\RibnaBorsa.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\RibnaBorsa\bin\Debug\RibnaBorsa.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\RibnaBorsa\obj\Debug\RibnaBorsa.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\1\RibnaBorsa\obj\Debug\RibnaBorsa.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\RibnaBorsa\obj\Debug\RibnaBorsa.pdb

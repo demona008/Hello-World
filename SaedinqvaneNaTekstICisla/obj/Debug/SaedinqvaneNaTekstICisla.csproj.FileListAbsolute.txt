@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\1\SaedinqvaneNaTekstICisla\bin\Debug\SaedinqvaneNaTekstICisla.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\1\SaedinqvaneNaTekstICisla\bin\Debug\SaedinqvaneNaTekstICisla.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\SaedinqvaneNaTekstICisla\bin\Debug\SaedinqvaneNaTekstICisla.pdb
+C:\Users\User\documents\visual studio 2017\Projects\1\SaedinqvaneNaTekstICisla\obj\Debug\SaedinqvaneNaTekstICisla.exe
+C:\Users\User\documents\visual studio 2017\Projects\1\SaedinqvaneNaTekstICisla\obj\Debug\SaedinqvaneNaTekstICisla.pdb
